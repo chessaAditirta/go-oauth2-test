@@ -7,12 +7,15 @@ run server in package main
 run example
 
 open another terminal 
+
 cd example/server
+
 ./server
 
 open another terminal once again for client
 
 cd example/client 
+
 ./client
 
 source from 
